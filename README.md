@@ -1,4 +1,4 @@
-<font style="vertical-align: inherit;">Olá, meu nome é Thiago R Angeli!💻👾</font>
+<font style="vertical-align: inherit;">Olá, meu nome é Thiago R Angeli !💻👾</font>
 
 Tenho 21 anos e atualmente resido no Espirito Santo, Brasil. Sou estudante de Sistemas de Informação na MULTIVIX Vitória.
 
