@@ -1,8 +1,14 @@
-Olá!  Meu nome é Thiago. Tenho 21 anos e atualmente resido no Espirito Santo, Brasil. Sou estudante de Sistemas de Informação na MULTIVIX Vitória.
+<font style="vertical-align: inherit;">Olá, meu nome é Thiago R Angeli!✨💻</font>
 
+Tenho 21 anos e atualmente resido no Espirito Santo, Brasil. Sou estudante de Sistemas de Informação na MULTIVIX Vitória.
+
+Sobre min !
+  
 Estou em busda da minha primeira oportunidade na área da tecnologia seja um estágio ou um emprego fixo, buscando sempre novos conhecimentos com pessoas mais experiêntes em programação e sempre buscando aprimorar meus conhecimentos e compartilhar meu aprendizado seja na faculdade com amigos ou com outras pessoais que são mais experiêntes nesta área.
 
-amo o mundo da tecnologia, e sempre em busca de novas experiências na área da progamação. Mande-me um e-mail !
+amo o mundo da tecnologia, e sempre em busca de novas experiências na área da progamação. 
+Mande-me um e-mail thiagoangeli38@gmail.com !
+
 
 Aplicações de Estudo:
 
