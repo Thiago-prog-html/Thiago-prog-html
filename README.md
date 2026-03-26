@@ -1,6 +1,6 @@
 <font style="vertical-align: inherit;">Olá, meu nome é Thiago Rodrigues Angeli !💻👾</font>
 
-Tenho 22 anos e atualmente resido no Espirito Santo, Brasil. Sou estudante de Sistemas de Informação na MULTIVIX Vitória.
+Tenho 23 anos e atualmente resido no Espirito Santo, Brasil. Sou estudante de Sistemas de Informação na MULTIVIX Vitória.
 
 <font style="vertical-align: inherit;">Sobre mim 👋😁</font>
   
